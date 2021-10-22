@@ -1,0 +1,10 @@
+[*NAME_SHARE*]
+        comment = Share for ***
+        path = /***
+        browseable = yes
+        read only = no
+        guest ok = no
+        wrire list  = ***
+        valid users = ***
+        create mask = 0777
+        directory mask = 0777
